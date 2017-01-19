@@ -1,0 +1,24 @@
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\.Debug\KinectInteraction180_32.dll
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\.Debug\KinectInteraction180_64.dll
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\ACL Gold x64\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.csprojResolveAssemblyReference.cache
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\ACL Gold x64\Microsoft.Kinect.Toolkit.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\ACL Gold x64\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\ACL Gold x64\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\ACL Gold x64\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Themes\Generic.baml
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\ACL Gold x64\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.g.resources
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\ACL Gold x64\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\ACL Gold x64\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\.Debug\KinectInteraction180_32.dll
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\.Debug\KinectInteraction180_64.dll
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\Microsoft.Kinect.Toolkit.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Themes\Generic.baml
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.g.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.pdb

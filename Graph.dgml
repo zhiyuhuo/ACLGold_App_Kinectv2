@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="(@1 @16)" Category="CodeSchema_ProjectItem" Bounds="-340.171939248712,16.7275044300629,111.681333410412,25.998000077079" FilePath="$(VsSolutionUri)/ACL Gold x64/DataFrame.cs" Label="DataFrame.cs" />
+    <Node Id="(@1 @17)" Category="CodeSchema_ProjectItem" Bounds="73.2402179173381,149.428462419788,173.984666743746,25.998000077079" FilePath="$(VsSolutionUri)/ACL Gold x64/ACL Testing Suite.xaml.cs" Label="ACL Testing Suite.xaml.cs" />
+    <Node Id="(@1 @18)" Category="CodeSchema_ProjectItem" Bounds="277.224984661084,157.282726929446,169.724666743746,25.998000077079" FilePath="$(VsSolutionUri)/ACL Gold x64/Enrollment Form.xaml.cs" Label="Enrollment Form.xaml.cs" />
+    <Node Id="(@1 @19)" Category="CodeSchema_ProjectItem" Bounds="167.967035418578,93.4303623427091,103.538000077079,25.998000077079" FilePath="$(VsSolutionUri)/ACL Gold x64/App.xaml.cs" Label="App.xaml.cs" />
+    <Node Id="(@1 @20)" Category="CodeSchema_ProjectItem" Bounds="301.411596064575,101.20305014398,153.001333410412,25.998000077079" FilePath="$(VsSolutionUri)/ACL Gold x64/AboutStartup.xaml.cs" Label="AboutStartup.xaml.cs" />
+    <Node Id="(@1 @21)" Category="CodeSchema_ProjectItem" Bounds="-77.0812154930743,133.786071603685,120.321333410412,25.998000077079" FilePath="$(VsSolutionUri)/ACL Gold x64/Startup.xaml.cs" Label="Startup.xaml.cs" />
+    <Node Id="(@1 @22)" Category="CodeSchema_ProjectItem" Bounds="484.50656890607,90.2632574335632,125.311333410412,25.998000077079" FilePath="$(VsSolutionUri)/ACL Gold x64/Properties/AssemblyInfo.cs" Label="AssemblyInfo.cs" />
+    <Node Id="(@1 @23)" Category="CodeSchema_ProjectItem" Bounds="653.421184815241,134.808924785154,157.284666743746,25.998000077079" FilePath="$(VsSolutionUri)/ACL Gold x64/Properties/Resources.Designer.cs" Label="Resources.Designer.cs" />
+    <Node Id="(@1 @24)" Category="CodeSchema_ProjectItem" Bounds="476.94975140483,159.931601187921,146.471333410412,25.998000077079" FilePath="$(VsSolutionUri)/ACL Gold x64/Properties/Settings.Designer.cs" Label="Settings.Designer.cs" />
+    <Node Id="(@1 @25)" Category="CodeSchema_ProjectItem" Bounds="354.45522780335,30.362037318036,114.968000077079,25.998000077079" FilePath="$(VsSolutionUri)/ACL Gold x64/TestSubject.cs" Label="TestSubject.cs" />
+    <Node Id="(@1 @4)" Category="CodeSchema_ProjectItem" Bounds="-468.710039325791,16.7275044300629,98.538000077079,25.998000077079" FilePath="$(VsSolutionUri)/ACL Gold x64/App.config" Label="App.config" />
+    <Node Id="(@1 @5)" Category="CodeSchema_ProjectItem" Bounds="-70.5276390174747,77.7879715266061,208.494666743746,25.998000077079" FilePath="$(VsSolutionUri)/ACL Gold x64/Images/Silver Background Gradient.png" Label="Silver Background Gradient.png" />
+    <Node Id="(@3)" Category="CodeSchema_Solution" Bounds="200.481762628109,-100.49949816427,91.0766666666667,25.96" Label="ACL Gold x64" />
+    <Node Id="@11" Category="CodeSchema_ProjectItem" Bounds="47.6656943158585,21.7898714495271,90.3013334104123,25.998000077079" FilePath="$(VsSolutionUri)/ACL Gold x64/App.xaml" Label="App.xaml" />
+    <Node Id="@13" Category="CodeSchema_ProjectItem" Bounds="690.171427957508,16.7274544300629,139.764666743746,25.998000077079" FilePath="$(VsSolutionUri)/ACL Gold x64/AboutStartup.xaml" Label="AboutStartup.xaml" />
+    <Node Id="@15" Category="CodeSchema_ProjectItem" Bounds="-89.4190724278873,21.7898714495271,107.084666743746,25.998000077079" FilePath="$(VsSolutionUri)/ACL Gold x64/Startup.xaml" Label="Startup.xaml" />
+    <Node Id="@2" Category="CodeSchema_Project" Bounds="231.231764025748,-39.2747287510533,112.078899847783,26.0022331811163" Label="ACL Gold x64" />
+    <Node Id="@27" Category="CodeSchema_ProjectItem" Bounds="690.171427957508,73.327557613063,127.598000077079,25.998000077079" FilePath="$(VsSolutionUri)/ACL Gold x64/Properties/Settings.settings" Label="Settings.settings" />
+    <Node Id="@29" Category="CodeSchema_ProjectItem" Bounds="847.769528034587,72.725554507142,118.101333410412,25.998000077079" FilePath="$(VsSolutionUri)/ACL Gold x64/Properties/Resources.resx" Label="Resources.resx" />
+    <Node Id="@31" Category="ProjectFolder" Bounds="-198.490505838299,16.7275044300629,79.0713334104124,25.998000077079" FilePath="$(VsSolutionUri)/ACL Gold x64/Images/" Label="Images">
+      <Category Ref="CodeSchema_ProjectItem" />
+    </Node>
+    <Node Id="@33" Category="ProjectFolder" Bounds="859.936194701254,16.7275044300629,94.768000077079,25.998000077079" FilePath="$(VsSolutionUri)/ACL Gold x64/Properties/" Label="Properties">
+      <Category Ref="CodeSchema_ProjectItem" />
+    </Node>
+    <Node Id="@7" Category="CodeSchema_ProjectItem" Bounds="499.423327880429,34.2651573564841,160.748000077079,25.998000077079" FilePath="$(VsSolutionUri)/ACL Gold x64/ACL Testing Suite.xaml" Label="ACL Testing Suite.xaml" />
+    <Node Id="@9" Category="CodeSchema_ProjectItem" Bounds="167.967127726271,37.4322622656301,156.488000077079,25.998000077079" FilePath="$(VsSolutionUri)/ACL Gold x64/Enrollment Form.xaml" Label="Enrollment Form.xaml" />
+  </Nodes>
+  <Links>
+    <Link Source="(@3)" Target="@2" Category="Contains" Bounds="254.762552743826,-74.5394981642702,18.72425223262,27.8000566693272" />
+    <Link Source="@11" Target="(@1 @19)" Category="Contains" Bounds="115.845640026783,47.7878715266061,73.0234937669647,41.2185026745901" />
+    <Link Source="@13" Target="(@1 @20)" Category="Contains" Bounds="423.167694091797,42.725456237793,308.201263427734,55.5596008300781" />
+    <Link Source="@15" Target="(@1 @21)" Category="Contains" Bounds="-80.6618270874023,47.7878723144531,30.5571022033691,81.8225708007813" />
+    <Link Source="@2" Target="(@1 @16)" Category="Contains" Bounds="-225.011093139648,-21.6505889892578,456.242858886719,37.638144493103" />
+    <Link Source="@2" Target="(@1 @25)" Category="Contains" Bounds="310.547318517799,-13.272495569937,70.2622233508686,39.2457146350034" />
+    <Link Source="@2" Target="(@1 @4)" Category="Contains" Bounds="-362.960266113281,-22.5956363677979,594.192031860352,38.9979648590088" />
+    <Link Source="@2" Target="@11" Category="Contains" Bounds="142.798567789609,-13.272495569937,103.070297885522,32.3660134190572" />
+    <Link Source="@2" Target="@13" Category="Contains" Bounds="343.310663873531,-19.6358609427556,337.923241926946,40.0262745913715" />
+    <Link Source="@2" Target="@15" Category="Contains" Bounds="26.5067729338121,-15.6949253338948,204.781113950743,38.6957222097357" />
+    <Link Source="@2" Target="@31" Category="Contains" Bounds="-110.489219056766,-19.2408185575933,341.720983082514,42.8850238013393" />
+    <Link Source="@2" Target="@33" Category="Contains" Bounds="343.310668945313,-22.0624294281006,509.624267578125,38.2966136932373" />
+    <Link Source="@2" Target="@7" Category="Contains" Bounds="338.988394610482,-13.272495569937,180.371749146598,45.3434257307334" />
+    <Link Source="@2" Target="@9" Category="Contains" Bounds="257.416922504249,-13.272495569937,22.8947993474896,42.7700687703802" />
+    <Link Source="@27" Target="(@1 @24)" Category="Contains" Bounds="589.05596541599,99.325557690142,134.326960634236,57.0859356071019" />
+    <Link Source="@29" Target="(@1 @23)" Category="Contains" Bounds="777.134759619412,98.723554584221,93.0949273069248,33.072538097039" />
+    <Link Source="@31" Target="(@1 @5)" Category="Contains" Bounds="-120.40052140592,41.94474943538,104.522768821143,33.1243001912202" />
+    <Link Source="@33" Target="(@1 @22)" Category="Contains" Bounds="616.406005859375,38.7884864807129,243.530212402344,49.7018928527832" />
+    <Link Source="@33" Target="@27" Category="Contains" Bounds="797.632614564391,42.7255045071419,74.468644649549,27.4857232399559" />
+    <Link Source="@33" Target="@29" Category="Contains" Bounds="907.016618019421,42.7255045071419,0.187510178585512,21.0004087407784" />
+    <Link Source="@7" Target="(@1 @17)" Category="Contains" Bounds="216.938568115234,59.3631782531738,283.342346191406,87.7096977233887" />
+    <Link Source="@9" Target="(@1 @18)" Category="Contains" Bounds="254.951705932617,63.4302635192871,79.0430755615234,89.0277290344238" />
+  </Links>
+  <Categories>
+    <Category Id="CodeSchema_Project" Label="Project" CanBeDataDriven="True" DefaultAction="Node:Both:CodeSchema_ProjectItem" Icon="CodeSchema_Project" NavigationActionLabel="Projects" />
+    <Category Id="CodeSchema_ProjectItem" Label="Project Item" BasedOn="File" CanBeDataDriven="True" DefaultAction="Node:Both:CodeSchema_Type" Icon="File" NavigationActionLabel="Project Items" />
+    <Category Id="CodeSchema_Solution" Label="Solution" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" NavigationActionLabel="Solutions" />
+    <Category Id="Contains" Label="Contains" Description="Whether the source of the link contains the target object" CanBeDataDriven="False" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Contained By" IsContainment="True" OutgoingActionLabel="Contains" />
+    <Category Id="File" Label="File" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="File" NavigationActionLabel="Files" />
+    <Category Id="ProjectFolder" Label="Project Folder" CanBeDataDriven="True" DefaultAction="Node:Both:CodeSchema_Type" NavigationActionLabel="Folders" />
+  </Categories>
+  <Properties>
+    <Property Id="Bounds" DataType="System.Windows.Rect" />
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CanLinkedNodesBeDataDriven" Label="CanLinkedNodesBeDataDriven" Description="CanLinkedNodesBeDataDriven" DataType="System.Boolean" />
+    <Property Id="DefaultAction" Label="DefaultAction" Description="DefaultAction" DataType="System.String" />
+    <Property Id="FilePath" Label="File Path" Description="File Path" DataType="System.String" />
+    <Property Id="Icon" Label="Icon" Description="Icon" DataType="System.String" />
+    <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
+    <Property Id="IsContainment" DataType="System.Boolean" />
+    <Property Id="Label" Label="Label" Description="Displayable label of an Annotatable object" DataType="System.String" />
+    <Property Id="NavigationActionLabel" Label="NavigationActionLabel" Description="NavigationActionLabel" DataType="System.String" />
+    <Property Id="OutgoingActionLabel" Label="OutgoingActionLabel" Description="OutgoingActionLabel" DataType="System.String" />
+  </Properties>
+  <QualifiedNames>
+    <Name Id="Assembly" Label="Assembly" ValueType="Uri" />
+    <Name Id="File" Label="File" ValueType="Uri" />
+  </QualifiedNames>
+  <IdentifierAliases>
+    <Alias n="1" Uri="Assembly=$(VsSolutionUri)/ACL Gold x64/ACL Gold x64.csproj" />
+    <Alias n="2" Id="(@1)" />
+    <Alias n="3" Uri="Assembly=$(VsSolutionUri)/ACL Gold x64.sln" />
+    <Alias n="4" Uri="File=$(VsSolutionUri)/ACL Gold x64/App.config" />
+    <Alias n="5" Uri="File=$(VsSolutionUri)/ACL Gold x64/Images/Silver Background Gradient.png" />
+    <Alias n="6" Uri="File=$(VsSolutionUri)/ACL Gold x64/ACL Testing Suite.xaml" />
+    <Alias n="7" Id="(@1 @6)" />
+    <Alias n="8" Uri="File=$(VsSolutionUri)/ACL Gold x64/Enrollment Form.xaml" />
+    <Alias n="9" Id="(@1 @8)" />
+    <Alias n="10" Uri="File=$(VsSolutionUri)/ACL Gold x64/App.xaml" />
+    <Alias n="11" Id="(@1 @10)" />
+    <Alias n="12" Uri="File=$(VsSolutionUri)/ACL Gold x64/AboutStartup.xaml" />
+    <Alias n="13" Id="(@1 @12)" />
+    <Alias n="14" Uri="File=$(VsSolutionUri)/ACL Gold x64/Startup.xaml" />
+    <Alias n="15" Id="(@1 @14)" />
+    <Alias n="16" Uri="File=$(VsSolutionUri)/ACL Gold x64/DataFrame.cs" />
+    <Alias n="17" Uri="File=$(VsSolutionUri)/ACL Gold x64/ACL Testing Suite.xaml.cs" />
+    <Alias n="18" Uri="File=$(VsSolutionUri)/ACL Gold x64/Enrollment Form.xaml.cs" />
+    <Alias n="19" Uri="File=$(VsSolutionUri)/ACL Gold x64/App.xaml.cs" />
+    <Alias n="20" Uri="File=$(VsSolutionUri)/ACL Gold x64/AboutStartup.xaml.cs" />
+    <Alias n="21" Uri="File=$(VsSolutionUri)/ACL Gold x64/Startup.xaml.cs" />
+    <Alias n="22" Uri="File=$(VsSolutionUri)/ACL Gold x64/Properties/AssemblyInfo.cs" />
+    <Alias n="23" Uri="File=$(VsSolutionUri)/ACL Gold x64/Properties/Resources.Designer.cs" />
+    <Alias n="24" Uri="File=$(VsSolutionUri)/ACL Gold x64/Properties/Settings.Designer.cs" />
+    <Alias n="25" Uri="File=$(VsSolutionUri)/ACL Gold x64/TestSubject.cs" />
+    <Alias n="26" Uri="File=$(VsSolutionUri)/ACL Gold x64/Properties/Settings.settings" />
+    <Alias n="27" Id="(@1 @26)" />
+    <Alias n="28" Uri="File=$(VsSolutionUri)/ACL Gold x64/Properties/Resources.resx" />
+    <Alias n="29" Id="(@1 @28)" />
+    <Alias n="30" Uri="File=$(VsSolutionUri)/ACL Gold x64/Images/" />
+    <Alias n="31" Id="(@1 @30)" />
+    <Alias n="32" Uri="File=$(VsSolutionUri)/ACL Gold x64/Properties/" />
+    <Alias n="33" Id="(@1 @32)" />
+  </IdentifierAliases>
+  <Paths>
+    <Path Id="VsSolutionUri" Value="file:///C:/Users/asm3kf/documents/visual studio 2013/Projects/ACL Gold x64" />
+  </Paths>
+</DirectedGraph>

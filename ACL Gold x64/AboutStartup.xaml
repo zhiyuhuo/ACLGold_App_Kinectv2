@@ -1,0 +1,79 @@
+﻿<Window x:Class="ACL_Gold_x64.AboutStartup"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ACL Gold- About" Height="450" Width="600" MaxHeight="450" MaxWidth="600" MinHeight="450" MinWidth="600" ResizeMode="NoResize" WindowStyle="ToolWindow">
+    <Window.Resources>
+        <Style x:Key="AboutWindowExitButton" TargetType="{x:Type Button}" >
+            <Setter Property="Width" Value="75"/>
+            <Setter Property="Height" Value="40"/>
+            <Setter Property="BorderThickness" Value="2"/>
+            <Setter Property="FontSize" Value="12"/>
+            <Setter Property="Padding" Value="0"/>
+        </Style>
+
+        <Style x:Key="RectangleHeader" TargetType="{x:Type Label}">
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="FontFamily" Value="Segoe UI"/>
+            <Setter Property="FontSize" Value="18"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="VerticalAlignment" Value="Top"/>
+        </Style>
+        <Style x:Key="RectangleSubheader" TargetType="{x:Type Label}" BasedOn="{StaticResource RectangleHeader}">
+            
+            <Setter Property="FontSize" Value="15"/>
+            <Setter Property="Height" Value="29"/>
+        </Style>
+        <Style x:Key="RectangleContents" TargetType="{x:Type TextBlock}">
+            <Setter Property="TextAlignment" Value="Center"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="FontWeight" Value="Light"/>
+            <Setter Property="FontSize" Value="13.5"/>
+            <Setter Property="TextWrapping" Value="Wrap"/>
+        </Style>
+    </Window.Resources>
+    <Grid >
+        <Grid.RowDefinitions>
+            <RowDefinition x:Name="TitleRow" Height="60"/>
+            <RowDefinition x:Name="ContentRow" Height="*"/>
+        </Grid.RowDefinitions>
+        <Label Content="About ACL Gold" Grid.Row="0"/>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition x:Name="LeftSpacer" Width="12"/>
+                <ColumnDefinition x:Name="Central" Width="*"/>
+                <ColumnDefinition x:Name="RightSpacer" Width="12"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition x:Name="TopSpacer" Height="12"/>
+                <RowDefinition x:Name="TheContent" Height="*"/>
+                <RowDefinition x:Name="ButtonRow" Height="48"/>
+                <RowDefinition x:Name="BottomSpacer" Height="12"/>
+            </Grid.RowDefinitions>
+            <Button Style="{StaticResource AboutWindowExitButton}" x:Name="BtnAboutExit" Grid.Column="1" Grid.Row="2" Content="Exit" HorizontalAlignment="Right" Click="btnAboutExit_Click"/>
+            <Grid Grid.Column="1" Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition x:Name="TheRectangle" Width="200"/>
+                    <ColumnDefinition x:Name="MiddleSpace" Width="24"/>
+                    <ColumnDefinition x:Name="Information" Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Border BorderBrush="Black" BorderThickness="2">
+                    <Rectangle Fill="#F1B82D"/>
+                </Border>
+                <Label Grid.Column="0" Style="{StaticResource RectangleHeader}" Content="University of Missouri" Height="35" Margin="2,0"/>
+                <Label Grid.Column="0" Style="{StaticResource RectangleSubheader}" Content="College of Engineering" Margin="15,26,15,0" Foreground="ForestGreen" Height="34" />
+                <TextBlock Grid.Column="0" Style="{StaticResource RectangleContents}" Text="Center for Eldercare and Rehabilitation Technology" Margin="28,55,28,187" HorizontalAlignment="Stretch"/>
+                <Label Grid.Column="0" Style="{StaticResource RectangleSubheader}" Content="School of Medicine" Margin="27,91,28,0"/>
+                <TextBlock Grid.Column="0" Style="{StaticResource RectangleContents}" Text="Family and Sports Medicine" Margin="50,122,50,113" HorizontalAlignment="Stretch"/>
+
+                <Grid Grid.Column="2">
+                    
+                    <Border BorderThickness="2" BorderBrush="Black">
+                        <Rectangle Fill="#F1B82D"/>
+                    </Border>
+
+                </Grid>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

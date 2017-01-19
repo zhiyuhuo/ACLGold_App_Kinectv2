@@ -1,0 +1,78 @@
+C:\Users\asm3kf\Documents\Visual Studio 2012\Projects\acl-gold-x64\ACL Gold x64\bin\Debug\ACL Gold x64.exe.config
+C:\Users\asm3kf\Documents\Visual Studio 2012\Projects\acl-gold-x64\ACL Gold x64\obj\Debug\ACL Gold x64.exe
+C:\Users\asm3kf\Documents\Visual Studio 2012\Projects\acl-gold-x64\ACL Gold x64\obj\Debug\ACL Gold x64.pdb
+C:\Users\asm3kf\Documents\Visual Studio 2012\Projects\acl-gold-x64\ACL Gold x64\obj\Debug\ACL Gold x64.csprojResolveAssemblyReference.cache
+C:\Users\asm3kf\Documents\Visual Studio 2012\Projects\acl-gold-x64\ACL Gold x64\obj\Debug\Startup.baml
+C:\Users\asm3kf\Documents\Visual Studio 2012\Projects\acl-gold-x64\ACL Gold x64\obj\Debug\Startup.g.cs
+C:\Users\asm3kf\Documents\Visual Studio 2012\Projects\acl-gold-x64\ACL Gold x64\obj\Debug\ACL Gold x64_MarkupCompile.cache
+C:\Users\asm3kf\Documents\Visual Studio 2012\Projects\acl-gold-x64\ACL Gold x64\bin\Debug\ACL Gold x64.exe
+C:\Users\asm3kf\Documents\Visual Studio 2012\Projects\acl-gold-x64\ACL Gold x64\bin\Debug\ACL Gold x64.pdb
+C:\Users\asm3kf\Documents\Visual Studio 2012\Projects\acl-gold-x64\ACL Gold x64\obj\Debug\App.baml
+C:\Users\asm3kf\Documents\Visual Studio 2012\Projects\acl-gold-x64\ACL Gold x64\obj\Debug\App.g.cs
+C:\Users\asm3kf\Documents\Visual Studio 2012\Projects\acl-gold-x64\ACL Gold x64\obj\Debug\ACL Gold x64.g.resources
+C:\Users\asm3kf\Documents\Visual Studio 2012\Projects\acl-gold-x64\ACL Gold x64\obj\Debug\ACL_Gold_x64.Properties.Resources.resources
+C:\Users\asm3kf\Documents\Visual Studio 2012\Projects\acl-gold-x64\ACL Gold x64\obj\Debug\ACL Gold x64.csproj.GenerateResource.Cache
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\ACL Gold x64\bin\Debug\KinectInteraction180_32.dll
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\ACL Gold x64\bin\Debug\KinectInteraction180_64.dll
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\ACL Gold x64\bin\Debug\ACL Gold x64.exe.config
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\ACL Gold x64\bin\Debug\ACL Gold x64.exe
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\ACL Gold x64\bin\Debug\ACL Gold x64.pdb
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\ACL Gold x64\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\ACL Gold x64\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\ACL Gold x64\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\ACL Gold x64\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\ACL Gold x64\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\ACL Gold x64\obj\Debug\ACL Gold x64.csprojResolveAssemblyReference.cache
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\ACL Gold x64\obj\Debug\AboutStartup.baml
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\ACL Gold x64\obj\Debug\EndOfTest.baml
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\ACL Gold x64\obj\Debug\Enrollment Form.baml
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\ACL Gold x64\obj\Debug\Startup.baml
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\ACL Gold x64\obj\Debug\App.baml
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\ACL Gold x64\obj\Debug\AboutStartup.g.cs
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\ACL Gold x64\obj\Debug\ACL Testing Suite.g.cs
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\ACL Gold x64\obj\Debug\EndOfTest.g.cs
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\ACL Gold x64\obj\Debug\Enrollment Form.g.cs
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\ACL Gold x64\obj\Debug\Startup.g.cs
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\ACL Gold x64\obj\Debug\App.g.cs
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\ACL Gold x64\obj\Debug\ACL Gold x64_MarkupCompile.cache
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\ACL Gold x64\obj\Debug\ACL Gold x64_MarkupCompile.lref
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\ACL Gold x64\obj\Debug\ACL Testing Suite.baml
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\ACL Gold x64\obj\Debug\ACL Gold x64.g.resources
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\ACL Gold x64\obj\Debug\ACL_Gold_x64.Properties.Resources.resources
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\ACL Gold x64\obj\Debug\ACL Gold x64.csproj.GenerateResource.Cache
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\ACL Gold x64\obj\Debug\ACL Gold x64.exe
+C:\Users\asm3kf\Documents\Visual Studio 2013\Projects\ACL Gold x64\ACL Gold x64\obj\Debug\ACL Gold x64.pdb
+C:\Users\asm3kf\documents\visual studio 2013\Projects\ACL Gold x64\ACL Gold x64\obj\Debug\Views\EnrollmentBasicView.baml
+C:\Users\asm3kf\documents\visual studio 2013\Projects\ACL Gold x64\ACL Gold x64\obj\Debug\Views\EnrollmentBasicView.g.cs
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\bin\Debug\KinectInteraction180_32.dll
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\bin\Debug\KinectInteraction180_64.dll
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\bin\Debug\ACL Gold x64.exe.config
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\bin\Debug\ACL Gold x64.exe
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\bin\Debug\ACL Gold x64.pdb
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\obj\Debug\AboutStartup.baml
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\obj\Debug\EndOfTest.baml
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\obj\Debug\Views\EnrollmentBasicView.baml
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\obj\Debug\Startup.baml
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\obj\Debug\Views\EnrollmentInjuryView.baml
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\obj\Debug\App.baml
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\obj\Debug\AboutStartup.g.cs
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\obj\Debug\ACL Testing Suite.g.cs
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\obj\Debug\EndOfTest.g.cs
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\obj\Debug\Views\EnrollmentBasicView.g.cs
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\obj\Debug\Startup.g.cs
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\obj\Debug\Views\EnrollmentInjuryView.g.cs
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\obj\Debug\App.g.cs
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\obj\Debug\ACL Gold x64_MarkupCompile.cache
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\obj\Debug\ACL Gold x64_MarkupCompile.lref
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\obj\Debug\ACL Testing Suite.baml
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\obj\Debug\ACL Gold x64.g.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\obj\Debug\ACL_Gold_x64.Properties.Resources.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\obj\Debug\ACL Gold x64.csproj.GenerateResource.Cache
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\obj\Debug\ACL Gold x64.exe
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\obj\Debug\ACL Gold x64.pdb
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\ACL_Gold_x64\ACL Gold x64\obj\Debug\ACL Gold x64.csprojResolveAssemblyReference.cache

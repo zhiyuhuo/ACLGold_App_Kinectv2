@@ -1,0 +1,452 @@
+/* This is the beginning of the file. Between the first opening and 
+ * closing bracket pair is considered a "TestSubject", which is an 
+ * abstract package: it does not exist in code, but it is the easiest
+ * way to divide up the file. Each TestSubject contains a TestSubjectId
+ * and a collection of jumps. In this case, for documentation purposes,
+ * there is only one jump included.
+ */ 
+
+{
+  "TestSubjectId": "diagramtest",		// This is the ID for the test subject.
+  "Jumps": [		// This is the beginning of the JumpResults collection seen in code. All jumps are in this section.
+    {		// More specifically, this is the beginning of the first jump in the collection.
+      "SubjectId": "diagramtest",		// This is the SubjectId. We see it not only up above, but for each jump entry as well. This is for database parsing purposes.
+      "InitFrame": 70,		// This is the frame where initial contact with the ground occurs (frame 70, which has been removed from this example for brevity).
+      "InitKasr": 1.33625174,		// This is the knee-ankle separation ratio at the frame where initial contact with the ground occurs.
+      "InitLeftValg": 5.12431,		// This is the left knee valgus (tilt inward) in degrees at the frame where initial contact with the ground occurs.
+      "InitRightValg": 7.312147,		// This is the right knee valgus (tilt inward) in degrees at the frame where initial contact with the ground occurs.
+      "PeakFrame": 74,		// This is the frame where peak flexion (amount of squatting to push off for the jump) occurs (frame 74, which has been removed from this example for brevity).
+      "PeakKasr": 1.51907063,		// This is the knee-ankle separation ratio at the frame where peak flexion occurs.
+      "PeakLeftValg": 8.931265,		// This is the left knee valgus (tilt inward) in degrees at the frame where peak flexion occurs.
+      "PeakRightValg": 12.9854822,		// This is the right knee valgus (tilt inward) in degrees at the frame where peak flexion occurs.
+      "FrameDataList": [		// This is the list of frames (and the data contained therein) for each jump. Each jump has one FrameDataList with multiple frames contained therein.
+        {		// Beginning of Jump 1, Frame 1.
+          "TimeStamp": 1405452506.9890397,		// Jump 1, Frame 1's timestamp in UNIX epoch time.
+          "OrigSkeletonArray": [		// The beginning of the OrigSkeletonArray. Each frame in the FrameDataList has one. This data is raw from the sensor and has not been adjusted for floor plane.
+            {		// The OrigSkeletonArray is made up of skeleton points, each of which is a point in 3D space. This is the hipCenter joint.
+              "X": -0.0346995257,		
+              "Y": 0.501942754,		
+              "Z": 2.37172222		
+            },		// End of hipCenter joint.
+            {		// The spine joint.
+              "X": -0.0246476177,		
+              "Y": 0.568336546,		
+              "Z": 2.3549993		
+            },		// End of spine joint.
+            {		// The shoulderCenter joint.
+              "X": 0.0256042629,	
+              "Y": 0.9002806,		
+              "Z": 2.2875042		
+            },		// End of shoulderCenter joint.
+            {		// The head joint.
+              "X": 0.07076076,		
+              "Y": 1.08748913,		
+              "Z": 2.32088256		
+            },		// End of head joint.
+            {		// The shoulderLeft joint.
+              "X": -0.183762327,	
+              "Y": 0.864893,		
+              "Z": 2.34705615		
+            },		// End of the shoulderLeft joint.
+            {		// The elbowLeft joint.
+              "X": -0.1391968,		
+              "Y": 1.15653443,		
+              "Z": 2.26993036		
+            },		// End of elblowLeft joint.
+            {		// The wristLeft joint.
+              "X": -0.0356501266,	
+              "Y": 1.29225552,		
+              "Z": 2.09201145		
+            },		// End of wristLeft joint.
+            {		// The handLeft joint.
+              "X": -0.001134567,		
+              "Y": 1.33749592,			
+              "Z": 2.037141		
+            },		// End of handLeft joint.
+            {		// The shoulderRight joint.
+              "X": 0.124480747,		
+              "Y": 0.86277467,		
+              "Z": 2.33137727		
+            },		// End of shoulderRight joint.
+            {		// The elbowRight joint.
+              "X": 0.269293964,		
+              "Y": 1.05023289,		
+              "Z": 2.31654286		
+            },		// End of elbowRight joint.
+            {		// The wristRight joint.
+              "X": 0.1219376,		
+              "Y": 1.06149912,		
+              "Z": 2.11776781		
+            },		// End of wristRight joint.
+            {		// The handRight joint.
+              "X": 0.109309614,		
+              "Y": 1.11686611,		
+              "Z": 2.06614733		
+            },		// End of handRight joint.
+            {		// The hipLeft joint.
+              "X": -0.10842327,		
+              "Y": 0.436430216,		
+              "Z": 2.372651		
+            },		// End of hipLeft joint.
+            {		// The kneeLeft joint.
+              "X": -0.174602419,		
+              "Y": -0.06380689,			
+              "Z": 2.57794356		
+            },		// End of kneeLeft joint.
+            {		// The ankleLeft joint.
+              "X": -0.180753648,	
+              "Y": -0.4187417,		
+              "Z": 2.720691		
+            },		// End of ankleLeft joint.
+            {		// The footLeft joint.
+              "X": -0.185705319,		
+              "Y": -0.4770101,		
+              "Z": 2.629418		
+            },		// End of footLeft joint.
+            {		// The hipRight joint.
+              "X": 0.01773695,		
+              "Y": 0.429996759,		
+              "Z": 2.39654231		
+            },		// End of hipRight joint.
+            {		// The kneeRight joint.
+              "X": 0.06238675,		
+              "Y": -0.0466884,		
+              "Z": 2.592613		
+            },		// End of kneeRight joint.
+            {		// The ankleRight joint.
+              "X": 0.0186394341,		
+              "Y": -0.433272958,		
+              "Z": 2.7875073		
+            },		// End of ankleRight joint.
+            {		// The footRight joint.
+              "X": 0.0136877578,		
+              "Y": -0.491541356,		
+              "Z": 2.69623423		
+            }		// End of footRight joint.
+          ],		// End of the OrigSkelArray.
+          "AdjustedSkeleton": [		// This is the adjusted skeleton array, which, though identical in structure to the above OrigSkelArray, is adjusted for the floor plane.
+            {		// Adjusted hipCenter joint.
+              "X": 0.0772357658,		
+              "Y": 1.39835739,
+              "Z": 3.5972724
+            },		// End of adjusted hipCenter joint.
+            {		// Adjusted spine joint.
+              "X": 0.08594259,
+              "Y": 1.4569149,
+              "Z": 3.59460974
+            },		// End of adjusted spine joint.
+            {		// Adjusted shoulderCenter joint.
+              "X": 0.116103992,
+              "Y": 1.75419211,
+              "Z": 3.55896378
+            },		// End of adjusted shoulderCenter joinot.
+            {		// Adjusted head joint.
+              "X": 0.08723126,
+              "Y": 1.89875579,
+              "Z": 3.419357
+            },		// End of adjusted head joint.
+            {		// Adjusted shoulderLeft joint.
+              "X": -0.06745905,
+              "Y": 1.69483972,
+              "Z": 3.62568069
+            },		// End of adjusted shoulderLeft joint.
+            {		// Adjusted elbowLeft joint.
+              "X": -0.175914422,
+              "Y": 1.46031308,
+              "Z": 3.67813659
+            },		// End of adjusted elbowLeft joint.
+            {		// Adjusted wristLeft joint.
+              "X": -0.247292712,
+              "Y": 1.25370383,
+              "Z": 3.60472131
+            },		// End of adjusted wristLeft joint.
+            {		// Adjusted handLeft joint.
+              "X": -0.2534542,
+              "Y": 1.1721406,
+              "Z": 3.5561533
+            },		// End of adjusted handLeft joint.
+            {		// Adjusted shoulderRight joint.
+              "X": 0.265717775,
+              "Y": 1.67007649,
+              "Z": 3.51591635
+            },		// End of adjusted shoulderRight joint.
+            {		// Adjusted elbowRight joint.
+              "X": 0.3190614,
+              "Y": 1.4518075,
+              "Z": 3.44997644
+            },		// End of adjusted elbowRight joint.
+            {		// Adjusted wristRight joint.
+              "X": 0.2713176,
+              "Y": 1.2200985,
+              "Z": 3.295792
+            },		// End of adjusted wristRight joint.
+            {		// Adjusted handRight joint.
+              "X": 0.23549746,
+              "Y": 1.13719368,
+              "Z": 3.27002978
+            },		// End of adjusted handRight joint.
+            {		// Adjusted hipLeft joint.
+              "X": 0.00103129528,
+              "Y": 1.32920408,
+              "Z": 3.61770821
+            },		// End of adjusted hipLeft joint.
+            {		// Adjusted kneeLeft joint.
+              "X": -0.105167292,
+              "Y": 0.80915153,
+              "Z": 3.63404727
+            },		// End of adjusted kneeLeft joint.
+            {		// Adjusted ankleLeft joint.
+              "X": -0.064336136,
+              "Y": 0.439824522,
+              "Z": 3.76462817
+            },		// End of adjusted ankleLeft joint.
+            {		// Adjusted footLeft joint.
+              "X": -0.0971106142,
+              "Y": 0.360946685,
+              "Z": 3.72993183
+            },		// End of adjusted footLeft joint.
+            {		// Adjusted hipRight joint.
+              "X": 0.135924742,
+              "Y": 1.31337035,
+              "Z": 3.58720541
+            },		// End of adjusted hipRight joint.
+            {		// Adjusted kneeRight joint.
+              "X": 0.148730874,
+              "Y": 0.8120663,
+              "Z": 3.60356522
+            },		// End of adjusted kneeRight joint.
+            {		// Adjusted ankleRight joint.
+              "X": 0.096708104,
+              "Y": 0.448572516,
+              "Z": 3.6930635
+            },		// End of adjusted ankleRight joint.
+            {		// Adjusted footRight joint.
+              "X": 0.0620592833,
+              "Y": 0.367847562,
+              "Z": 3.65455222
+            }		// End of adjusted footRight joint.
+          ],		// End of AdjustedSkeleton.
+          "FloorPlane": {		// This is the floor plane for the jump, used in the calculation to adjust the skeleton.
+            "Item1": 0.00215495983,
+            "Item2": 0.998735547,
+            "Item3": -0.0502263978,
+            "Item4": 0.8542388
+          }		// End of FloorPlane.
+        },		// End of Jump 1, Frame 1.
+        {		// The beginning of Jump 1, Frame 2. This will follow the pattern of the above frame.
+          "TimeStamp": 1405452506.9900403,
+          "OrigSkeletonArray": [
+            {
+              "X": -0.0346995257,
+              "Y": 0.501942754,
+              "Z": 2.37172222
+            },
+            {
+              "X": -0.0246476177,
+              "Y": 0.568336546,
+              "Z": 2.3549993
+            },
+            {
+              "X": 0.0256042629,
+              "Y": 0.9002806,
+              "Z": 2.2875042
+            },
+            {
+              "X": 0.07076076,
+              "Y": 1.08748913,
+              "Z": 2.32088256
+            },
+            {
+              "X": -0.183762327,
+              "Y": 0.864893,
+              "Z": 2.34705615
+            },
+            {
+              "X": -0.1391968,
+              "Y": 1.15653443,
+              "Z": 2.26993036
+            },
+            {
+              "X": -0.0356501266,
+              "Y": 1.29225552,
+              "Z": 2.09201145
+            },
+            {
+              "X": -0.001134567,
+              "Y": 1.33749592,
+              "Z": 2.037141
+            },
+            {
+              "X": 0.124480747,
+              "Y": 0.86277467,
+              "Z": 2.33137727
+            },
+            {
+              "X": 0.269293964,
+              "Y": 1.05023289,
+              "Z": 2.31654286
+            },
+            {
+              "X": 0.1219376,
+              "Y": 1.06149912,
+              "Z": 2.11776781
+            },
+            {
+              "X": 0.109309614,
+              "Y": 1.11686611,
+              "Z": 2.06614733
+            },
+            {
+              "X": -0.10842327,
+              "Y": 0.436430216,
+              "Z": 2.372651
+            },
+            {
+              "X": -0.174602419,
+              "Y": -0.06380689,
+              "Z": 2.57794356
+            },
+            {
+              "X": -0.180753648,
+              "Y": -0.4187417,
+              "Z": 2.720691
+            },
+            {
+              "X": -0.185705319,
+              "Y": -0.4770101,
+              "Z": 2.629418
+            },
+            {
+              "X": 0.01773695,
+              "Y": 0.429996759,
+              "Z": 2.39654231
+            },
+            {
+              "X": 0.06238675,
+              "Y": -0.0466884,
+              "Z": 2.592613
+            },
+            {
+              "X": 0.0186394341,
+              "Y": -0.433272958,
+              "Z": 2.7875073
+            },
+            {
+              "X": 0.0136877578,
+              "Y": -0.491541356,
+              "Z": 2.69623423
+            }
+          ],
+          "AdjustedSkeleton": [
+            {
+              "X": 0.0773559958,
+              "Y": 1.39928544,
+              "Z": 3.59547472
+            },
+            {
+              "X": 0.08581877,
+              "Y": 1.45808434,
+              "Z": 3.59246826
+            },
+            {
+              "X": 0.117223278,
+              "Y": 1.75578785,
+              "Z": 3.55875039
+            },
+            {
+              "X": 0.0910878,
+              "Y": 1.90001774,
+              "Z": 3.41412
+            },
+            {
+              "X": -0.06941322,
+              "Y": 1.69653547,
+              "Z": 3.62086082
+            },
+            {
+              "X": -0.179519966,
+              "Y": 1.46293545,
+              "Z": 3.67303753
+            },
+            {
+              "X": -0.247877061,
+              "Y": 1.25385821,
+              "Z": 3.60536337
+            },
+            {
+              "X": -0.2558737,
+              "Y": 1.172246,
+              "Z": 3.55621457
+            },
+            {
+              "X": 0.2724739,
+              "Y": 1.67321563,
+              "Z": 3.519138
+            },
+            {
+              "X": 0.3199085,
+              "Y": 1.44749951,
+              "Z": 3.45318747
+            },
+            {
+              "X": 0.282666653,
+              "Y": 1.210802,
+              "Z": 3.311371
+            },
+            {
+              "X": 0.257357955,
+              "Y": 1.12814927,
+              "Z": 3.280643
+            },
+            {
+              "X": -0.0006966822,
+              "Y": 1.3287797,
+              "Z": 3.612167
+            },
+            {
+              "X": -0.1141222,
+              "Y": 0.806160331,
+              "Z": 3.621825
+            },
+            {
+              "X": -0.102597818,
+              "Y": 0.4557004,
+              "Z": 3.71196866
+            },
+            {
+              "X": -0.121424928,
+              "Y": 0.359673262,
+              "Z": 3.680649
+            },
+            {
+              "X": 0.136496454,
+              "Y": 1.31393,
+              "Z": 3.58650017
+            },
+            {
+              "X": 0.149126112,
+              "Y": 0.815301061,
+              "Z": 3.60408044
+            },
+            {
+              "X": 0.09549066,
+              "Y": 0.4523601,
+              "Z": 3.691349
+            },
+            {
+              "X": 0.06349787,
+              "Y": 0.368963838,
+              "Z": 3.656422
+            }
+          ],
+          "FloorPlane": {		// FloorPlane
+            "Item1": 0.00215495983,
+            "Item2": 0.998735547,
+            "Item3": -0.0502263978,
+            "Item4": 0.8542388
+          }		// End of FloorPlane.
+        }		// End of Jump 1, Frame 2.        
+      ]		// End of FrameDataList.
+    }		// End of Jump 1.
+  ]		// End of the JumpResultsCollection.
+}		// End of TestSubject object.
